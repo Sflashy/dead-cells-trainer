@@ -1,0 +1,24 @@
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\Dead Cells Trainer.exe.config
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\Dead Cells Trainer.exe
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\Dead Cells Trainer.pdb
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\MaterialDesignColors.dll
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\Memory.dll
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\MaterialDesignColors.pdb
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\Resources\Colors.baml
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\MainWindow.g.cs
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\App.g.cs
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\Dead Cells Trainer_MarkupCompile.cache
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\Dead Cells Trainer_MarkupCompile.lref
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\App.baml
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\MainWindow.baml
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\Dead Cells Trainer.g.resources
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\DeadCells_Trainer.Properties.Resources.resources
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\DeadCells Trainer.csproj.GenerateResource.cache
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\DeadCells Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\DeadCells Trainer.csproj.CopyComplete
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\Dead Cells Trainer.exe
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\Dead Cells Trainer.pdb
+C:\Users\Sflashy\Desktop\VS Projects\DeadCells Trainer\DeadCells Trainer\obj\Release\DeadCells Trainer.csproj.Fody.CopyLocal.cache
